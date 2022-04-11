@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i class="fas fa-mobile-alt"></i> +91-7983695330 &nbsp; <a href='radhaagarwal798@gmail.com'> <i class="fa fa-envelope" aria-hidden="true"></i> radhaagarwal798@gmail.com</a>
+subtitle: <i class="fas fa-mobile-alt"></i> +91-7983695330 &nbsp; <a href='radhaagarwal798@gmail.com'> <i class="fa fa-envelope" aria-hidden="true"></i> radhaagarwal798@gmail.com</a> &nbsp; <a href='https://drive.google.com/file/d/1o-1grgxn3zuw-HbybmxdkdYaZC39YNmL/view?usp=sharing'> <i class="fas fa-file"></i> CV</a>
 # . Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <center><span style="color:#000; font-family: 'Bebas Neue'; font-size: 1.2em;">Living life to the fullest :)</span></center>
+    <center><p style="color:#000; font-family: 'Bebas Neue'; font-size: 1.2em;">Living life to the fullest :)</p></center>
 
 
 news: true  # includes a list of news items
@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Hi, I am pursuing an M.Tech in Microelectronics and VLSI Design (Department of Electronic System Engineering) at Indian Institute of Science (IISc), Bangalore. I am a Texas Instruments scholar working on mmWave radar project in the NeuRonICS Lab, IISc. I completed B.Tech in Electronics and Communication Engineering from the Institute of Engineering and Technology, Lucknow in 2020. I am familiar with C, Python, MATLAB, Verilog, and VHDL. I have done a couple of projects involving ML, embedded systems, and digital system design using FPGA. My fields of interest include applications of machine learning and embedded systems.
 
-Hi, I am pursuing an M.Tech in Microelectronics and VLSI Design (Department of Electronic System Engineering) at Indian Institute of Science (IISc), Bangalore. I completed B.Tech in Electronics and Communication Engineering from the Institute of Engineering and Technology, Lucknow in 2020. I am familiar with C, Python, MATLAB, Verilog, and VHDL. My fields of interest include applications of machine learning and embedded systems. I have done a couple of projects involving ML, embedded systems, and digital design using FPGA. Currently, I am working on an mmWave radar signal processing project for machine learning applications.
 
 I am a learning enthusiast, a good listener, and a music lover. I enjoy watching web series, dancing, cycling, and playing badminton. I am also a Green-1 belt in Taekwondo.
 
