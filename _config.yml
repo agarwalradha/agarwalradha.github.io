@@ -102,7 +102,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  Recent Updates:
+  news:
     defaults:
       layout: post
     output: true
