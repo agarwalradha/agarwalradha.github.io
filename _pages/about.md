@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i class="fas fa-mobile-alt"></i> +91-7983695330 &nbsp; <a href='radhaagarwal798@gmail.com'> <i class="fa fa-envelope" aria-hidden="true"></i> radhaagarwal798@gmail.com</a> &nbsp; <a href='https://drive.google.com/file/d/1o-1grgxn3zuw-HbybmxdkdYaZC39YNmL/view?usp=sharing'> <i class="fas fa-file"></i> CV</a>
+subtitle: <i class="fas fa-mobile-alt"></i> +91-7983695330 &nbsp; <a href='radhaagarwal798@gmail.com'> <i class="fa fa-envelope" aria-hidden="true"></i> radhaagarwal798@gmail.com</a> &nbsp; <a href='https://drive.google.com/file/d/1zVErfFV5RGVFOZ08ZxbFyqSLmrIlqy8F/view?usp=sharing'> <i class="fas fa-file"></i> CV</a>
 # . Address. Contacts. Moto. Etc.
 
 profile:
